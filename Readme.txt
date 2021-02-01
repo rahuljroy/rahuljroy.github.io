@@ -1,6 +1,6 @@
 Find my website at https://rjroy196.github.io/
 
-It is still in progress. Pleae bear with the unknown content from the template.
+It is still in progress. Pleae mind the unknown content from the template.
 
 Template Name: Day
 Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
